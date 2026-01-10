@@ -9,4 +9,6 @@ d = first_number / second_number
 print("Addition: ", a)
 print("Subtraction: ", b)
 print("Multiplication: ", c)
-print("Division: ", d)
+print("Division: ", round(d,2))
+
+
